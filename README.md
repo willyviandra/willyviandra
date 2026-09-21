@@ -43,7 +43,7 @@ Saat ini saya seorang **Siswa SMKN 4 Padalarang | Content Creator | Developer** 
 ## 🌐 Socials
 
 <p align="left">
-  <a href="https://www.instagram.com/viandra.w?stkn=Yjllb2ZkNnZwd2w2&utm_source=qr" target="_blank">
+  <a href="https://instagram.com/username-kamu" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://youtube.com/@username-kamu" target="_blank">
@@ -92,24 +92,7 @@ Saat ini saya seorang **Siswa SMKN 4 Padalarang | Content Creator | Developer** 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=willyviandra&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willyviandra&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=willyviandra&theme=tokyonight&hide_border=true" alt="streak stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=willyviandra&theme=tokyo-night&hide_border=true" width="100%"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=willyviandra&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
 
 ---
@@ -144,24 +127,6 @@ Laravel 🔴
 </details>
 
 </details>
-
----
-
-## 📈 Weekly Coding Activity (WakaTime)
-
-<!--START_SECTION:waka-->
-```text
-Setup WakaTime badge otomatis di sini via GitHub Action (wakatime-badge)
-```
-<!--END_SECTION:waka-->
-
----
-
-## 💬 Random Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
 
 ---
 
