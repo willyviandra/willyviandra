@@ -1,15 +1,28 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hello+World!+I'm+Viandra+Williansyah;Student+at+SMKN+4+Padalarang;Content+Creator+%7C+Developer;Welcome+to+my+GitHub+profile+%F0%9F%91%8B" alt="Typing SVG" />
-</h1>
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=&fontSize=0" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF9A00,50:FF0080,100:7928CA&height=180&section=header&text=Viandra%20Williansyah&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Student%20%40%20SMKN%204%20Padalarang%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=18" width="100%"/>
 </p>
 
+<table align="center">
+<tr>
+<td width="55%" valign="middle">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF0080&center=true&vCenter=true&width=500&lines=Hello+World!+I'm+Viandra+%F0%9F%91%8B;Student+%40+SMKN+4+Padalarang;Full+Stack+Developer;Naruto+%26+Anime+Enthusiast+%E2%9A%A1" alt="Typing SVG"/>
+</td>
+<td width="45%" align="center">
+
+<!--
+  Sumber gif: https://giphy.com/gifs/naruto-uzumaki-8MyXEVgue4ucw
+  Mau ganti gif lain? cari di giphy.com/tenor.com, klik kanan gif > "Copy image address", ganti src di bawah.
+-->
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXdvamlxNHZrYnJxa2syNnF1dHB0ZDY2NG5rMnVsaHRwYzRyNnVwMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8MyXEVgue4ucw/giphy.gif" width="260" alt="naruto gif"/>
+
+</td>
+</tr>
+</table>
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=willyviandra&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
-  <img src="https://img.shields.io/github/followers/willyviandra?label=Followers&style=social" alt="followers"/>
-  <img src="https://img.shields.io/badge/Status-Student-brightgreen" alt="status"/>
+  <img src="https://komarev.com/ghpvc/?username=willyviandra&label=Profile%20Views&color=ff0080&style=for-the-badge" alt="profile views"/>
+  <img src="https://img.shields.io/github/followers/willyviandra?label=Followers&style=for-the-badge&color=7928ca" alt="followers"/>
+  <img src="https://img.shields.io/badge/Status-Student-brightgreen?style=for-the-badge" alt="status"/>
 </p>
 
 ---
@@ -98,43 +111,6 @@ Saat ini saya seorang **Siswa SMKN 4 Padalarang | Content Creator | Developer** 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=willyviandra&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
-
----
-
-## 🐍 Contribution Snake Game
-
-Animasi ular yang "memakan" kotak kontribusi GitHub — dihasilkan otomatis lewat GitHub Actions.
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/willyviandra/willyviandra/output/github-contribution-grid-snake.svg" alt="snake game" />
-</p>
-
-> 💡 Cara mengaktifkan: buat workflow `.github/workflows/snake.yml` di repo profil kamu (`willyviandra/willyviandra`) — contoh workflow-nya:
->
-> ```yaml
-> name: generate animation
-> on:
->   schedule:
->     - cron: "0 */6 * * *"
->   workflow_dispatch:
->   push:
->     branches: [ main ]
-> jobs:
->   generate:
->     runs-on: ubuntu-latest
->     steps:
->       - uses: actions/checkout@v4
->       - uses: Platane/snk@v3
->         with:
->           github_user_name: willyviandra
->           outputs: dist/github-contribution-grid-snake.svg
->       - uses: crazy-max/ghaction-github-pages@v4
->         with:
->           target_branch: output
->           build_dir: dist
->         env:
->           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-> ```
 
 ---
 
