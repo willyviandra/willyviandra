@@ -43,7 +43,7 @@ Saat ini saya seorang **Siswa SMKN 4 Padalarang | Content Creator | Developer** 
 ## 🌐 Socials
 
 <p align="left">
-  <a href="https://instagram.com/username-kamu" target="_blank">
+  <a href="https://www.instagram.com/viandra.w?stkn=Yjllb2ZkNnZwd2w2&utm_source=qr" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://youtube.com/@username-kamu" target="_blank">
